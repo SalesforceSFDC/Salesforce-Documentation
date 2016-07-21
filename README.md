@@ -1,7 +1,7 @@
 
 # Salesforce  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/VukDukic/Salesforce-Knowledge-Base)
 
 [<img src="https://tm-prod.global.ssl.fastly.net/uploaded/companies/931/small_logo.png?v=af8bc02620aa0e0bc90006e418b043f09f6ed4cc29bd0ad3979840c4d6412c40" align="right" width="300">](https://clara.com)
 
