@@ -10,15 +10,11 @@
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
 
 
-
-## What makes for an awesome list?
-Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
-
-  Read Related Awesome Pages :
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
-   * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
-   * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
-   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
+  Read Related Pages :
+   * [Lighting](https://github.com/mailtoharshit/awesome-lighting)
+   * [Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
+   * [Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
+   * [Heroku](https://github.com/mailtoharshit/awesome-heroku)
 
 
 ## Table of Contents  
