@@ -9,7 +9,7 @@
 
 
   Read Related Pages :
-   * [Lighting](https://github.com/mailtoharshit/awesome-lighting)
+   * [Lightning](https://github.com/mailtoharshit/awesome-lighting)
    * [Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
    * [Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Heroku](https://github.com/mailtoharshit/awesome-heroku)
