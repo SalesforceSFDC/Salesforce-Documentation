@@ -19,7 +19,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 
 ## Table of Contents  
-* [Awesome Salesforce](#awesome-salesforce--)
+* [Salesforce](#awesome-salesforce--)
   * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
   * [Resource to Learn Salesforce Platform](#learning-salesforce-platform)
   * [IDE](#ide)
