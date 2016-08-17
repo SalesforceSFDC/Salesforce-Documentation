@@ -33,7 +33,6 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [Salesforce Certification Program](#salesforce-certification-program)
   * [Salesforce University](#salesforce-university)
   * [Salesforce Technical Blogs](#technical-blogs)
-  * [Contribute to Project Awesome-Salesforce](#contribute)
   * [How to create pull request and report bug](#bugreport-pullrequest)
   * [Downloading Event Log Files using a Script](#Downloading Event Log Files using a Script)
 
