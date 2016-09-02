@@ -37,6 +37,9 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [Downloading Event Log Files using a Script](#Downloading Event Log Files using a Script)
   * [Apex Hacks and Tutorials](#Apex)
 
+### Apex Hacks and Tutorials
+* [Batch Apex](http://www.worldofsalesforce.com/2016/05/batch-apex-salesforce-with-example.html) - Batch Apex is a way to break down a Job  into multiple smaller batches of manageable jobs which are processed separately.
+
 ### Salesforce Developer Free Edition Signup
 * [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
 
