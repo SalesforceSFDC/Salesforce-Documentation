@@ -35,7 +35,7 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [Salesforce Technical Blogs](#technical-blogs)
   * [How to create pull request and report bug](#bugreport-pullrequest)
   * [Downloading Event Log Files using a Script](#Downloading Event Log Files using a Script)
-
+  * [Apex Hacks and Tutorials](#Apex)
 
 ### Salesforce Developer Free Edition Signup
 * [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
