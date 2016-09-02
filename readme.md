@@ -19,6 +19,7 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
 
 ## Table of Contents  
 * [Salesforce](#awesome-salesforce--)
+  * [Apex Hacks and Tutorials](#apex-hacks-and-tutorials)
   * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
   * [Resource to Learn Salesforce Platform](#learning-salesforce-platform)
   * [IDE](#ide)
@@ -35,7 +36,7 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [Salesforce Technical Blogs](#technical-blogs)
   * [How to create pull request and report bug](#bugreport-pullrequest)
   * [Downloading Event Log Files using a Script](#Downloading Event Log Files using a Script)
-  * [Apex Hacks and Tutorials](#Apex)
+
 
 ### Apex Hacks and Tutorials
 * [Batch Apex](http://www.worldofsalesforce.com/2016/05/batch-apex-salesforce-with-example.html) - Batch Apex is a way to break down a Job  into multiple smaller batches of manageable jobs which are processed separately.
