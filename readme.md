@@ -15,6 +15,7 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
    * [Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
    * [Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Heroku](https://github.com/mailtoharshit/awesome-heroku)
+   * [Lightning Design System](https://www.lightningdesignsystem.com/)
 
 
 ## Table of Contents  
