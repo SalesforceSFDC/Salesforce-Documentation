@@ -12,6 +12,7 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
 
   Quick Links:
   * [Object Reference for Salesforce and Force.com](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_list.htm)
+  * [Object Basics](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_concepts.htm)
   
   Read Related Pages :
    * [Lightning](https://github.com/mailtoharshit/awesome-lighting)
