@@ -13,6 +13,9 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   Quick Links:
   * [Object Reference for Salesforce and Force.com](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_list.htm)
   * [Object Basics](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_concepts.htm)
+  * [Account & Contact Record Merging](http://www.salesforceben.com/back-basics-account-contact-record-merging/)
+  * [Merge Duplicate Accounts](https://help.salesforce.com/HTViewHelpDoc?id=account_merge.htm)
+  * [Merge Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm)
   
   Read Related Pages :
    * [Lightning](https://github.com/mailtoharshit/awesome-lighting)
