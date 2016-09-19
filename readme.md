@@ -16,7 +16,8 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [Account & Contact Record Merging](http://www.salesforceben.com/back-basics-account-contact-record-merging/)
   * [Merge Duplicate Accounts](https://help.salesforce.com/HTViewHelpDoc?id=account_merge.htm)
   * [Merge Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm)
-  
+  * [Advanced Apex](http://advancedapex.com)
+
   Read Related Pages :
    * [Lightning](https://github.com/mailtoharshit/awesome-lighting)
    * [Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
