@@ -17,6 +17,7 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [Merge Duplicate Accounts](https://help.salesforce.com/HTViewHelpDoc?id=account_merge.htm)
   * [Merge Duplicate Contacts](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm)
   * [Advanced Apex](http://advancedapex.com)
+  * [Apex Developer Guide](https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_apex_language_reference.pdf)
 
   Read Related Pages :
    * [Lightning](https://github.com/mailtoharshit/awesome-lighting)
