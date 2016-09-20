@@ -19,6 +19,7 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [Advanced Apex](http://advancedapex.com)
   * [Apex Developer Guide](https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_apex_language_reference.pdf)
   * [Advanced Apex Programming Notes](https://docs.google.com/document/d/1OS-flN7ICUZdJu9eTarNUsGNoL8UpD7v9RzpWqQ8ong/edit)
+  * [API Limits Cheatsheet](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)
 
   Read Related Pages :
    * [Lightning](https://github.com/mailtoharshit/awesome-lighting)
