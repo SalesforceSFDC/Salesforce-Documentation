@@ -21,6 +21,7 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [Advanced Apex Programming Notes](https://docs.google.com/document/d/1OS-flN7ICUZdJu9eTarNUsGNoL8UpD7v9RzpWqQ8ong/edit)
   * [API Limits Cheatsheet](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)
   * [Deduping Trigger](http://www.sfdc99.com/2013/10/19/example-how-to-write-a-deduping-trigger-for-leads-and-contacts/)
+  * [A vocabulary and associated APIs for HTML and XHTML](https://www.w3.org/TR/html5/infrastructure.html#urls)
 
   Read Related Pages :
    * [Lightning](https://github.com/mailtoharshit/awesome-lighting)
