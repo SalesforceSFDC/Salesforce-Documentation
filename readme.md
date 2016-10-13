@@ -24,6 +24,7 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [Deduping Trigger](http://www.sfdc99.com/2013/10/19/example-how-to-write-a-deduping-trigger-for-leads-and-contacts/)
   * [A vocabulary and associated APIs for HTML and XHTML](https://www.w3.org/TR/html5/infrastructure.html#urls)
   * [Velocify for Salesforce](http://lmhelp.velocify.com/hc/en-us/sections/200304510-Velocify-for-Salesforce-General-Information-Summer-14-Fall-14-Winter-15-)
+  
 
   Read Related Pages :
    * [Lightning](https://github.com/mailtoharshit/awesome-lighting)
