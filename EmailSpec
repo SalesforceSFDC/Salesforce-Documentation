@@ -1,0 +1,40 @@
+semi official spec
+
+https://help.salesforce.com/apex/HTViewSolution?id=000170904&language=en_US
+
+
+Resolution	For the local part of the email address we accept the following characters. The local part is anything before the @ sign. 
+
+abcdefg.hijklmnopqrstuvwxyz!#$%&'*/=?^_+-`{|}~0123456789 
+
+Note: The character dot “.” is supported; provided that it is not the first character in the local-part
+
+For the domain part of the email address we accept. The domain part is anything after the @ in an email address: 
+
+0-9 and A-Z and a-z and dash “-“ 
+
+
+Example email address: 
+abcdefg.hijklmnopqrstuvwxyz!#$%&'*/=?^_+-`{|}~0123456789@acme-inc.com 
+
+
+Additional information: 
+RFC 2822: http://www.ietf.org/rfc/rfc2822.txt 
+RFC 2821: http://www.ietf.org/rfc/rfc2821.txt 
+RFC 821: http://www.faqs.org/rfcs/rfc821.html 
+http://en.wikipedia.org/wiki/E-mail_address 
+*********************************** 
+
+
+Based on this information, you could ensure that an email address is in a format which salesforce.com will consider valid by using a REGEX with syntax like: 
+
+REGEX ( UPPER ( EmailField__c ) ,"^[A-Z0-9._%+-/!#$%&'*=?^_`{|}~]+@[A-Z0-9.-]+\\.[A-Z]{2,4}$")
+
+
+Also the below mentioned syntax can be used:
+
+NOT(REGEX ( UPPER ( Field ) ,"^[A-Z0-9._%+-/!#$%&'*=?^_`{|}~]+@[A-Z0-9.-]+\\.[A-Z]{2,4}$")) 
+or 
+NOT(REGEX( Custom_Email_Field__c ,'([a-zA-Z0-9_\\-\\.]+)@((\\[a-z]{1,3}\\.[a-z]{1,3}\\.[a-z]{1,3}\\.)|(([a-zA-Z0-9\\-]+\\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})')) 
+
+These two formulas would ensure that all text added on the email field will be consisting of a regular text, followed by the "@" sign, then the domain, followed by the ".com" suffix.
