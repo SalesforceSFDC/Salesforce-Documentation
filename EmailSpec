@@ -30,7 +30,6 @@ Based on this information, you could ensure that an email address is in a format
 
 REGEX ( UPPER ( EmailField__c ) ,"^[A-Z0-9._%+-/!#$%&'*=?^_`{|}~]+@[A-Z0-9.-]+\\.[A-Z]{2,4}$")
 
-
 Also the below mentioned syntax can be used:
 
 NOT(REGEX ( UPPER ( Field ) ,"^[A-Z0-9._%+-/!#$%&'*=?^_`{|}~]+@[A-Z0-9.-]+\\.[A-Z]{2,4}$")) 
