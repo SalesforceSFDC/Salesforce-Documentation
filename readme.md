@@ -11,6 +11,7 @@
 Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
   Quick Links:
+  * [PermComparator](https://perm-comparator.herokuapp.com/)
   * [Salesforce Integration Design Patterns and Practices](https://resources.docs.salesforce.com/sfdc/pdf/integration_patterns_and_practices.pdf)
   * [Object Reference for Salesforce and Force.com](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_list.htm)
   * [Object Basics](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_concepts.htm)
