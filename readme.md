@@ -26,7 +26,9 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
   * [A vocabulary and associated APIs for HTML and XHTML](https://www.w3.org/TR/html5/infrastructure.html#urls)
   * [Velocify for Salesforce](http://lmhelp.velocify.com/hc/en-us/sections/200304510-Velocify-for-Salesforce-General-Information-Summer-14-Fall-14-Winter-15-)
   * [Useful Validation Rules](http://resources.docs.salesforce.com/202/21/en-us/sfdc/pdf/salesforce_useful_validation_formulas.pdf)
-  * [Context Variables](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables.htm)
+  * [Context Variables](https://developer.salesforce.com/docs/atlas.en
+  us.apexcode.meta/apexcode/apex_triggers_context_variables.htm)
+  * [Relative Date Values for Filter Criteria](https://help.salesforce.com/articleView?id=custom_dates.htm&language=en&type=0)
   
 
   Read Related Pages :
