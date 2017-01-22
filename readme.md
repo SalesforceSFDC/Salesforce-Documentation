@@ -14,6 +14,8 @@ Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/ma
 ## Security 
   * [Security Workbook](https://resources.docs.salesforce.com/sfdc/pdf/workbook_security.pdf)
   
+## Enterprise Application Architecture
+  * [Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
   
  ## Quick Links:
   * [PermComparator](https://perm-comparator.herokuapp.com/)
