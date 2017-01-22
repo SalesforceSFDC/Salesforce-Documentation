@@ -8,8 +8,7 @@
 > Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
 
 ## 
-## 
-Read [the manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
+
 
 ## Security 
   * [Security Workbook](https://resources.docs.salesforce.com/sfdc/pdf/workbook_security.pdf)
